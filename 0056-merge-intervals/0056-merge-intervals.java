@@ -1,47 +1,33 @@
-// Approach: Sorting + Merge Overlapping Intervals
-// 1. Sort all intervals by their starting time to ensure they are processed in order.
-// 2. Create a list (`mergedIntervals`) and insert the first interval as the starting point.
-// 3. Traverse through the sorted intervals:
-//      - Compare the current interval with the last merged interval.
-//      - If they overlap (last[1] >= current[0]), merge them by updating the end value.
-//      - Otherwise, add the current interval as a new non-overlapping interval.
-// 4. Convert the merged list back into a 2D array and return it.
-// 5. This ensures all overlapping intervals are merged efficiently.
-//
-// Time complexity: O(n log n) – due to sorting the intervals
-// Space complexity: O(n) – output list may hold all intervals in worst case
-
 class Solution {
     public int[][] merge(int[][] intervals) {
+        if (intervals.length == 0) return new int[0][];
 
-        // Step 1: Sort intervals by starting time
-        Arrays.sort(intervals, Comparator.comparingInt(a -> a[0]));
+        // Sort by start time
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
-        // Step 2: Initialize the result list with the first interval
-        List<int[]> mergedIntervals = new ArrayList<>();
-        mergedIntervals.add(intervals[0]);
+        List<int[]> res = new ArrayList<>();
 
-        // Step 3: Process and merge overlapping intervals
+        int start1 = intervals[0][0];
+        int end1 = intervals[0][1];
+
         for (int i = 1; i < intervals.length; i++) {
-            
-            // 🔹 Always check the LAST interval in the result list
-            //    NOT intervals[i-1], because merging changes res size
-            int[] last = mergedIntervals.get(mergedIntervals.size() - 1);
+            int start2 = intervals[i][0];
+            int end2 = intervals[i][1];
 
-            // Check if current interval overlaps with the last merged interval
-            if (last[1] >= intervals[i][0]) {
-
-                // 🔹 Merge occurs: update the end of the last interval
-                // last[0] is always <= intervals[i][0] because of sorting
-                last[1] = Math.max(last[1], intervals[i][1]);
-            } 
-            else {
-                // No overlap → add new interval
-                mergedIntervals.add(intervals[i]);
+            if (end1 >= start2) {
+                // Merge
+                end1 = Math.max(end1, end2);
+            } else {
+                // Push previous interval
+                res.add(new int[] { start1, end1 });
+                start1 = start2;
+                end1 = end2;
             }
         }
 
-        // Step 4: Convert list to 2D array and return
-        return mergedIntervals.toArray(new int[mergedIntervals.size()][]);
+        // Add last interval
+        res.add(new int[] { start1, end1 });
+
+        return res.toArray(new int[res.size()][]);
     }
 }
