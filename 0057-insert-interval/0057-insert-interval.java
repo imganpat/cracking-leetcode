@@ -1,29 +1,43 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
-        int[][] temp = new int[intervals.length + 1][2];
-        int i = 0;
-        for(i = 0; i < intervals.length; i++){
-            temp[i] = intervals[i];
+        if(intervals.length == 0){
+            return new int[][] {newInterval};
         }
-        temp[i] = newInterval;
 
-        Arrays.sort(temp, Comparator.comparingInt(a -> a[0]));
+        List<int[]> temp = new ArrayList<>();
 
-        List<int[]> mergedIntervals = new ArrayList<>();
-        mergedIntervals.add(temp[0]);
+        boolean inserted = false;
+        for (int i = 0; i < intervals.length; i++) {
+            if (intervals[i][0] >= newInterval[0] && !inserted) {
+                temp.add(newInterval);
+                inserted = true;
+            }
+            temp.add(intervals[i]);
+        }
 
-        for (i = 1; i < temp.length; i++) {
-            int[] last = mergedIntervals.get(mergedIntervals.size() - 1);
+        if(!inserted){
+            temp.add(newInterval);
+        }
 
-            if (last[1] >= temp[i][0]) {
-                last[1] = Math.max(last[1], temp[i][1]);
-            } 
-            else {
-                mergedIntervals.add(temp[i]);
+        int start1 = temp.get(0)[0];
+        int end1 = temp.get(0)[1];
+        List<int[]> res = new ArrayList<>();
+
+        for (int i = 1; i < temp.size(); i++) {
+            int start2 = temp.get(i)[0];
+            int end2 = temp.get(i)[1];
+            
+            if (end1 >= start2) {
+                end1 = Math.max(end1, end2);
+            } else {
+                res.add(new int[] { start1, end1 });
+                start1 = start2;
+                end1 = end2;
             }
         }
-
-        return mergedIntervals.toArray(new int[mergedIntervals.size()][]);
+        res.add(new int[] { start1, end1 });
+        
+        return res.toArray(new int[res.size()][]);
 
     }
 }
