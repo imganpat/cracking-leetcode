@@ -1,17 +1,18 @@
 class BrowserHistory {
     int current;
-    List<String> history = new ArrayList<>();
+    List<String> history;
 
     public BrowserHistory(String homepage) {
+        this.history = new ArrayList<>();
+        this.history.add(homepage);
         this.current = 0;
-        history.add(homepage);
     }
 
     public void visit(String url) {
-        for (int i = history.size() - 1; i > current; i--) {
-            history.remove(i);
+        for (int i = this.history.size() - 1; i > current; i--) {
+            this.history.remove(i);
         }
-        history.add(url);
+        this.history.add(url);
         current++;
     }
 
@@ -19,11 +20,11 @@ class BrowserHistory {
         for (int i = 0; current > 0 && i < steps; i++) {
             current--;
         }
-        return history.get(current);
+        return this.history.get(current);
     }
 
     public String forward(int steps) {
-        for (int i = 0; current < history.size() - 1 && i < steps; i++) {
+        for (int i = 0; current < this.history.size() - 1 && i < steps; i++) {
             current++;
         }
         return history.get(current);
