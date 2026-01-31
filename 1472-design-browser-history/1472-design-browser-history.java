@@ -6,24 +6,24 @@ class BrowserHistory {
         this.current = 0;
         history.add(homepage);
     }
-    
+
     public void visit(String url) {
-        for(int i = history.size() - 1; i > current; i--){
+        for (int i = history.size() - 1; i > current; i--) {
             history.remove(i);
         }
-        this.current++;
-        history.add(current, url);
+        history.add(url);
+        current++;
     }
-    
+
     public String back(int steps) {
-        for(int i = 0; current > 0 && i < steps; i++){
+        for (int i = 0; current > 0 && i < steps; i++) {
             current--;
         }
         return history.get(current);
     }
-    
+
     public String forward(int steps) {
-        for(int i = 0; current < history.size() - 1  && i < steps; i++){
+        for (int i = 0; current < history.size() - 1 && i < steps; i++) {
             current++;
         }
         return history.get(current);
