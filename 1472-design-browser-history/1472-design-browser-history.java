@@ -17,16 +17,18 @@ class BrowserHistory {
     }
 
     public String back(int steps) {
-        for (int i = 0; current > 0 && i < steps; i++) {
-            current--;
-        }
+        // for (int i = 0; current > 0 && i < steps; i++) {
+        //     current--;
+        // }
+        current = Math.max(current - steps, 0);
         return this.history.get(current);
     }
 
     public String forward(int steps) {
-        for (int i = 0; current < this.history.size() - 1 && i < steps; i++) {
-            current++;
-        }
+        // for (int i = 0; current < this.history.size() - 1 && i < steps; i++) {
+        //     current++;
+        // }
+        current = Math.min(current + steps, history.size() - 1);
         return history.get(current);
     }
 }
