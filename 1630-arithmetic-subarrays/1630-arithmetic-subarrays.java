@@ -35,17 +35,32 @@ class Solution {
     }
 
     public boolean check(List<Integer> arr) {
-        // Sort the subarray
-        Collections.sort(arr);
+        int n = arr.size();
+        if (n < 2) {
+            return true;
+        }
 
-        // Compute common difference
-        int d = arr.get(1) - arr.get(0);
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        Set<Integer> set = new HashSet<>();
 
-        // Verify all consecutive differences
-        for (int i = 2; i < arr.size(); i++) {
-            if (arr.get(i) - arr.get(i - 1) != d) {
+        for (int val : arr) {
+            min = Math.min(val, min);
+            max = Math.max(val, max);
+            set.add(val);
+        }
+
+        if ((max - min) % (n - 1) != 0) {
+            return false;
+        }
+
+        int d = (max - min) / (n - 1);
+        int curr = min + d;
+        while (curr < max) {
+            if (!set.contains(curr)) {
                 return false;
             }
+            curr += d;
         }
 
         return true;
