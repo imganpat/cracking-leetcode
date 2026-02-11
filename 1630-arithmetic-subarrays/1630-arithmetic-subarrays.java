@@ -1,18 +1,19 @@
-// Approach: Extract Subarray + Sort + Check Arithmetic Property
-// 1. For each query (l[i], r[i]):
-//    - Extract the subarray from nums between indices l[i] and r[i].
-// 2. Sort the extracted subarray.
-// 3. Check if the sorted subarray forms an arithmetic sequence:
-//    - Compute the common difference using the first two elements.
-//    - Verify that the difference between every consecutive pair remains the same.
-// 4. Store true/false result for each query in the result list.
-// 5. Return the list of boolean results.
+// Approach: Min–Max + HashSet (Without Sorting)
+// 1. For each query (l[i], r[i]), extract the subarray from nums.
+// 2. Instead of sorting, compute the minimum and maximum values of the subarray.
+// 3. If all elements are equal (min == max), it is trivially an arithmetic sequence.
+// 4. Check if (max - min) is divisible by (n - 1). If not, an arithmetic sequence is impossible.
+// 5. Compute the common difference d = (max - min) / (n - 1).
+// 6. Use a HashSet to verify that all expected values
+//    (min, min + d, min + 2d, ..., max) exist in the subarray.
+// 7. If any required value is missing, return false; otherwise, return true.
+// 8. Store the result for each query and return the final list.
 //
-// Time complexity: O(q * k log k)
+// Time complexity: O(q * k)
 //   - q = number of queries
-//   - k = length of each subarray (sorting dominates)
+//   - k = length of each subarray
 // Space complexity: O(k)
-//   - Temporary list created for each query
+//   - HashSet used for each subarray
 
 class Solution {
     public List<Boolean> checkArithmeticSubarrays(int[] nums, int[] l, int[] r) {
@@ -48,6 +49,10 @@ class Solution {
             min = Math.min(val, min);
             max = Math.max(val, max);
             set.add(val);
+        }
+
+        if (min == max) {
+            return true;
         }
 
         if ((max - min) % (n - 1) != 0) {
