@@ -1,22 +1,21 @@
 class Solution {
     public int minSteps(String s, String t) {
-        Map<Character, Integer> sFreq = new HashMap<>();
-        Map<Character, Integer> tFreq = new HashMap<>();
+        int[] sFreq = new int[26];
+        int[] tFreq = new int[26];
 
         for (char c : s.toCharArray()) {
-            sFreq.put(c, sFreq.getOrDefault(c, 0) + 1);
+            sFreq[c - 'a']++;
         }
 
         for (char c : t.toCharArray()) {
-            tFreq.put(c, tFreq.getOrDefault(c, 0) + 1);
+            tFreq[c - 'a']++;
         }
 
         int steps = 0;
 
-        for (Map.Entry<Character, Integer> e : tFreq.entrySet()) {
-            char c = e.getKey();
-            int tCount = e.getValue();
-            int sCount = sFreq.getOrDefault(c, 0);
+        for (int i = 0; i < 26; i++) {
+            int tCount = tFreq[i];
+            int sCount = sFreq[i];
             
             if (tCount > sCount) {
                 steps += tCount - sCount;
