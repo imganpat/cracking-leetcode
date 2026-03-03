@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3668-restore-finishing-order](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3668-restore-finishing-order) |
 | [0074-search-a-2d-matrix](https://github.com/imganpat/cracking-leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2481-strictly-palindromic-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2265-partition-array-according-to-given-pivot](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3811-reverse-degree-of-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2481-strictly-palindromic-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2481-strictly-palindromic-number) |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 <!---LeetCode Topics End-->
