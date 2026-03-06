@@ -10,12 +10,9 @@ class Solution {
         
         for (String num : nums) {
             pq.add(num);
-        }
-
-        int remove = nums.length - k;
-        while (remove > 0) {
-            pq.poll();
-            remove--;
+            if(pq.size() > k){
+                pq.poll();
+            }
         }
 
         return pq.peek();
