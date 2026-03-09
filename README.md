@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/imganpat/cracking-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/imganpat/cracking-leetcode/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imganpat/cracking-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2974-minimum-number-game](https://github.com/imganpat/cracking-leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/imganpat/cracking-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imganpat/cracking-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2974-minimum-number-game](https://github.com/imganpat/cracking-leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2265-partition-array-according-to-given-pivot](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3811-reverse-degree-of-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2974-minimum-number-game](https://github.com/imganpat/cracking-leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/imganpat/cracking-leetcode/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imganpat/cracking-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [2974-minimum-number-game](https://github.com/imganpat/cracking-leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
