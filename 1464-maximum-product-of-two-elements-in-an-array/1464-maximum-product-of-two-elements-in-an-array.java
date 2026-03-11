@@ -1,17 +1,14 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int max1 = 0;
-        int max2 = 0;
-
-        for (int n : nums) {
-            if (n > max1) {
-                max2 = max1;
-                max1 = n;
-            } else if (n > max2) {
-                max2 = n;
-            }
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
+        
+        for (int num : nums) {
+            maxHeap.add(num);
         }
-
-        return (max2 - 1) * (max1 - 1);
+        
+        int max1 = maxHeap.poll();
+        int max2 = maxHeap.poll();
+        
+        return (max1 - 1) * (max2 - 1);
     }
 }
