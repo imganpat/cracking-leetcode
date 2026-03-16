@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [0141-linked-list-cycle](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0355-design-twitter](https://github.com/imganpat/cracking-leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/imganpat/cracking-leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3668-restore-finishing-order](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3668-restore-finishing-order) |
 | [0264-ugly-number-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/imganpat/cracking-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/imganpat/cracking-leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Counting
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/imganpat/cracking-leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/imganpat/cracking-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/imganpat/cracking-leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/imganpat/cracking-leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0355-design-twitter](https://github.com/imganpat/cracking-leetcode/tree/main/0355-design-twitter/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
