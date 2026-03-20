@@ -5,11 +5,11 @@ class Solution {
         PriorityQueue<Integer> maxHeap = new PriorityQueue<>((a, b) -> b - a);
 
         int days = 0;
-        for (int i = 0; i < courses.length; i++) {
-            days += courses[i][0];
-            maxHeap.offer(courses[i][0]);
+        for (int[] c: courses) {
+            days += c[0];
+            maxHeap.offer(c[0]);
 
-            if (days > courses[i][1]) {
+            if (days > c[1]) {
                 days -= maxHeap.poll();
             }
         }
