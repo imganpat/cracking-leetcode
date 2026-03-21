@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/imganpat/cracking-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0502-ipo](https://github.com/imganpat/cracking-leetcode/tree/main/0502-ipo/) | Hard |
 | [0630-course-schedule-iii](https://github.com/imganpat/cracking-leetcode/tree/main/0630-course-schedule-iii/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1792-maximum-average-pass-ratio](https://github.com/imganpat/cracking-leetcode/tree/main/1792-maximum-average-pass-ratio/) | Medium |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1430-find-the-k-beauty-of-a-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2481-strictly-palindromic-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [0264-ugly-number-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/imganpat/cracking-leetcode/tree/main/0502-ipo/) | Hard |
 | [0630-course-schedule-iii](https://github.com/imganpat/cracking-leetcode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imganpat/cracking-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0502-ipo](https://github.com/imganpat/cracking-leetcode/tree/main/0502-ipo/) | Hard |
 | [0630-course-schedule-iii](https://github.com/imganpat/cracking-leetcode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1792-maximum-average-pass-ratio](https://github.com/imganpat/cracking-leetcode/tree/main/1792-maximum-average-pass-ratio/) | Medium |
@@ -366,12 +370,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/imganpat/cracking-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imganpat/cracking-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/imganpat/cracking-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imganpat/cracking-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -390,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/imganpat/cracking-leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
