@@ -1,20 +1,13 @@
 class Solution {
     public int fib(int n) {
-        if(n <= 1){
-            return n;
+        if (n == 0) {
+            return 0;
         }
-        
-        int a = 0, b = 1;
-        int c = 0;
-        int count = 0;
 
-        while(count < n - 1) {
-            c = a+b;
-            a = b;
-            b = c;
-            count++;
+        if (n == 1) {
+            return 1;
         }
-        
-        return c;
+
+        return fib(n - 1) + fib(n - 2);
     }
 }
