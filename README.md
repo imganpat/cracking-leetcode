@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/imganpat/cracking-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0014-longest-common-prefix](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0058-length-of-last-word) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/imganpat/cracking-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0264-ugly-number-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/imganpat/cracking-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Monotonic Queue
@@ -415,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/imganpat/cracking-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
