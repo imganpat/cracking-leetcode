@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/imganpat/cracking-leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/imganpat/cracking-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0014-longest-common-prefix](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0058-length-of-last-word) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/imganpat/cracking-leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1635-number-of-good-pairs](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [0782-jewels-and-stones](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0782-jewels-and-stones) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/imganpat/cracking-leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/imganpat/cracking-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
