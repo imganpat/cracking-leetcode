@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/imganpat/cracking-leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imganpat/cracking-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/imganpat/cracking-leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3195-separate-black-and-white-balls](https://github.com/imganpat/cracking-leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Trie
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2128-reverse-prefix-of-word](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/imganpat/cracking-leetcode/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/imganpat/cracking-leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3195-separate-black-and-white-balls](https://github.com/imganpat/cracking-leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -435,5 +438,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/0078-subsets/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/imganpat/cracking-leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 <!---LeetCode Topics End-->
