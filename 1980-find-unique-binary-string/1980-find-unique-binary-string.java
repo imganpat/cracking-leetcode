@@ -8,19 +8,15 @@ class Solution {
             return null;
         }
 
-        curr.append('0');
-        String res = backtrack(nums, curr, i+1);
+        String res = backtrack(nums, new StringBuilder(curr + "0"), i+1);
         if(res != null){
             return res;
         }
-        curr.deleteCharAt(curr.length() - 1);
         
-        curr.append('1');
-        res = backtrack(nums, curr, i+1);
+        res = backtrack(nums, new StringBuilder(curr + "1"), i+1);
         if(res != null){
             return res;
         }
-        curr.deleteCharAt(curr.length() - 1);
 
         return null;
 
