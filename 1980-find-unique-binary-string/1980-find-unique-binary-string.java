@@ -1,27 +1,45 @@
 class Solution {
-    private String generate(String curr, int n, Set<String> set) {
-        if (curr.length() == n) {
-            if (!set.contains(curr)) {
-                return curr;
+    Set<String> map;
+    public String backtrack(String[] nums, StringBuilder curr, int i){
+        if(i == nums.length){
+            if(!map.contains(curr.toString())) {
+                return curr.toString();
             }
             return null;
         }
 
-        String res = generate(curr + "0", n, set);
-        if (res != null) {
+        curr.append('0');
+        String res = backtrack(nums, curr, i+1);
+        if(res != null){
             return res;
         }
+        curr.deleteCharAt(curr.length() - 1);
+        
+        curr.append('1');
+        res = backtrack(nums, curr, i+1);
+        if(res != null){
+            return res;
+        }
+        curr.deleteCharAt(curr.length() - 1);
 
-        res = generate(curr + "1", n, set);
-        return res;
+        return null;
+
     }
-
+    
     public String findDifferentBinaryString(String[] nums) {
-        Set<String> set = new HashSet<>();
-        for (String s : nums) {
-            set.add(s);
+        // StringBuilder res = new StringBuilder();
+        // for(int i = 0; i < nums.length; i++){
+        //     char c = nums[i].charAt(i);
+        //     res.append(c == '0' ? '1' : '0');
+        // }
+        // return res.toString();
+
+        map = new HashSet();
+
+        for(String s: nums){
+            map.add(s);
         }
 
-        return generate("", nums.length, set);
+        return backtrack(nums, new StringBuilder(), 0);
     }
 }
