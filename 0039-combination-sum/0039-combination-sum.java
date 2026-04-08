@@ -1,9 +1,11 @@
 class Solution {
     private void backtrack(List<List<Integer>> res, List<Integer> curr, int i, int sum, int[] candidates, int target){
+        if (sum == target){
+            res.add(new ArrayList<>(curr));
+            return;
+        }    
+        
         if(i == candidates.length){
-            if (sum == target){
-                res.add(new ArrayList<>(curr));
-            }    
             return;
         }
 
