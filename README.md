@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -467,8 +469,10 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
