@@ -19,7 +19,7 @@ class Solution {
             return new ArrayList<>();
         }
 
-        Stack<List<Integer>> stack = new Stack<>();
+        List<List<Integer>> res = new ArrayList<>();
         Queue<TreeNode> queue = new ArrayDeque<>();
 
         queue.offer(root);
@@ -39,14 +39,10 @@ class Solution {
                     queue.offer(node.right);
                 }
             }
-            stack.push(levelEle);
+            res.add(levelEle);
         }
 
-        List<List<Integer>> res = new ArrayList<>();
-        while (!stack.isEmpty()) {
-            res.add(stack.pop());
-        }
-
+        Collections.reverse(res);
         return res;
 
     }
