@@ -30,6 +30,6 @@ class Solution {
         boolean r1 = isSameTree(p.left, q.left);
         boolean r2 = isSameTree(p.right, q.right);
 
-        return r1 == true && r2 == true ? true:false;
+        return r1 && r2;
     }
 }
