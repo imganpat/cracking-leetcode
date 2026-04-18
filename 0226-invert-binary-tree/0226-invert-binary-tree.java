@@ -19,24 +19,23 @@ class Solution {
             return root;
         }
         
-        TreeNode curr = root;
         Deque<TreeNode> queue = new ArrayDeque<>();
         
-        queue.offer(curr);
+        queue.offer(root);
         
         while(!queue.isEmpty()){
-            TreeNode i = queue.poll();
+            TreeNode curr = queue.poll();
             
-            TreeNode temp = i.left;
-            i.left = i.right;
-            i.right = temp;
+            TreeNode temp = curr.left;
+            curr.left = curr.right;
+            curr.right = temp;
 
-            if(i.left != null){
-                queue.offer(i.left);
+            if(curr.left != null){
+                queue.offer(curr.left);
             }
 
-            if(i.right != null){
-                queue.offer(i.right);
+            if(curr.right != null){
+                queue.offer(curr.right);
             } 
         }
         
