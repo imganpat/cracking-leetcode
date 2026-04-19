@@ -8,7 +8,7 @@
  * }
  */
 
-// Approach: DFS (Postorder) + Count Propagation
+ // Approach: DFS (Postorder) + Count Propagation
 // 1. Traverse the tree using DFS (postorder).
 // 2. For each node:
 //    - Check if current node is either p or q → count = 1 if yes.
@@ -25,11 +25,9 @@
 //   - Recursion stack (h = height of tree)
 
 class Solution {
-
     TreeNode res = null;
 
-    public int helper(TreeNode node, TreeNode p, TreeNode q) {
-
+    public int helper(TreeNode node, TreeNode p, TreeNode q){
         // Base case
         if (node == null) {
             return 0;
@@ -51,11 +49,11 @@ class Solution {
         }
 
         return count;
+
     }
 
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        helper(root, p, q);
-
+        helper(root, p , q);
         return res;
     }
 }
