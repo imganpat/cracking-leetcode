@@ -15,21 +15,18 @@ class Solution {
             return 0;
         }
         
-        int count = 0;
-        if(node == p || node == q){
-            count = 1;
-        }
+        int count = (node == p || node == q) ? 1 : 0 ;
 
         int left = helper(node.left, p, q);
         int right = helper(node.right, p, q);
 
-        int total = count + left + right;
+        count += left + right;
         
-        if(total == 2 && res == null){
+        if(count == 2 && res == null){
             res = node;
         }
 
-        return total;
+        return count;
 
     }
 
