@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -514,4 +516,9 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 <!---LeetCode Topics End-->
