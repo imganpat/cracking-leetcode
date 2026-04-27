@@ -14,29 +14,27 @@
  * }
  */
 class Solution {
-    int res;
-    public void BFS(TreeNode node){
-        if (node == null) return;
-        Deque<TreeNode> queue = new ArrayDeque<>();
-        queue.offer(node);
-
+    public int deepestLeavesSum(TreeNode root) {
+        if (root == null) return 0;
+        
         int sum = 0;
-        while (!queue.isEmpty()){
+        
+        Deque<TreeNode> queue = new ArrayDeque<>();
+        queue.offer(root);
+        
+        while (!queue.isEmpty()) {
             int size = queue.size();
             sum = 0;
-            for(int i = 0; i < size; i++){
-                TreeNode t = queue.poll();
-                sum += t.val;
 
-                if(t.left != null) queue.offer(t.left);
-                if(t.right != null) queue.offer(t.right);
+            for(int i = 0; i < size; i++) {
+                TreeNode node = queue.poll();
+                sum += node.val;
+
+                if (node.left != null) queue.offer(node.left);
+                if (node.right != null) queue.offer(node.right);
             }
         }
-        res = sum;
-    }
 
-    public int deepestLeavesSum(TreeNode root) {
-        BFS(root);
-        return res;
+        return sum;
     }
 }
