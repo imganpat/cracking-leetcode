@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imganpat/cracking-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imganpat/cracking-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1302-deepest-leaves-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imganpat/cracking-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Search Tree
