@@ -15,7 +15,7 @@
  */
 class Solution {
     public int helper(TreeNode node, int sum) {
-        if (node == null) return sum;
+        if (node == null) return 0;
 
         sum = sum * 10 + node.val;
         
@@ -25,7 +25,7 @@ class Solution {
 
         int leftSum = helper(node.left, sum);
         int rightSum = helper(node.right, sum);
-        
+
         return leftSum + rightSum;
     }
 
