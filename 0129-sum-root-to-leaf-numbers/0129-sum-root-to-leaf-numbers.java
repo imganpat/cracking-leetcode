@@ -15,12 +15,13 @@
  */
 class Solution {
     int sum = 0;
-    public void helper(TreeNode node, String currSum){
+    public void helper(TreeNode node, int currSum) {
         if (node == null) return;
-        currSum += node.val;
+
+        currSum = currSum * 10 + node.val;
         
         if(node.left == null && node.right == null) {
-            sum += (Integer.parseInt(currSum));
+            sum += currSum;
         }
 
         helper(node.left, currSum);
@@ -28,7 +29,7 @@ class Solution {
     }
 
     public int sumNumbers(TreeNode root) {
-        helper(root, "");
+        helper(root, 0);
         return sum;
     }
 }
