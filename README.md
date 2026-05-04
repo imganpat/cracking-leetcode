@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0630-course-schedule-iii](https://github.com/imganpat/cracking-leetcode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imganpat/cracking-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imganpat/cracking-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imganpat/cracking-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imganpat/cracking-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
