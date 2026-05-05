@@ -14,10 +14,11 @@
  * }
  */
 class Solution {
-    int sum = 0;
 
-    public void dfs(TreeNode node){
-        if (node == null) return;
+    public int dfs(TreeNode node){
+        if (node == null) return 0;
+
+        int sum = 0;
 
         if (node.val % 2 == 0) {
             if (node.left != null) {
@@ -35,12 +36,10 @@ class Solution {
             }
         }
 
-        dfs(node.left);
-        dfs(node.right);
+        return sum + dfs(node.left) + dfs(node.right);
     }
 
     public int sumEvenGrandparent(TreeNode root) {
-        dfs(root);
-        return sum;     
+        return dfs(root);
     }
 }
