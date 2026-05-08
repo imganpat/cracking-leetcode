@@ -14,29 +14,24 @@
  * }
  */
 class Solution {
-    TreeNode head = null;
-
-    public void inOrderTraversal(List<Integer> res, TreeNode curr){
-        if(curr == null){
+    public void inOrderTraversal(List<Integer> res, TreeNode curr) {
+        if (curr == null)
             return;
-        }
+
         inOrderTraversal(res, curr.left);
         res.add(curr.val);
         inOrderTraversal(res, curr.right);
     }
 
     public TreeNode helper(List<Integer> arr, int start, int end) {
-        if (start > end) return null;
+        if (start > end)
+            return null;
 
         int mid = (end + start) / 2;
         TreeNode node = new TreeNode(arr.get(mid));
-        
-        if (head == null) {
-            head = node;
-        }
 
-        node.left = helper(arr, start, mid- 1);
-        node.right = helper(arr, mid +1, end);
+        node.left = helper(arr, start, mid - 1);
+        node.right = helper(arr, mid + 1, end);
 
         return node;
     }
