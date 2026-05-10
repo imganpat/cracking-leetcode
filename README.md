@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0630-course-schedule-iii](https://github.com/imganpat/cracking-leetcode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1792-maximum-average-pass-ratio](https://github.com/imganpat/cracking-leetcode/tree/main/1792-maximum-average-pass-ratio/) | Medium |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -588,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -595,4 +600,5 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
