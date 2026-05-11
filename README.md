@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/imganpat/cracking-leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/imganpat/cracking-leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imganpat/cracking-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/imganpat/cracking-leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/imganpat/cracking-leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imganpat/cracking-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Search Tree
