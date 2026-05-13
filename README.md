@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2481-strictly-palindromic-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [0096-unique-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0264-ugly-number-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/imganpat/cracking-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/imganpat/cracking-leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0264-ugly-number-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/imganpat/cracking-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Monotonic Queue
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0100-same-tree/) | Easy |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0100-same-tree/) | Easy |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
