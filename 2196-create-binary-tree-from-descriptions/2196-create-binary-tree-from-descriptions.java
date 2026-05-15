@@ -22,25 +22,19 @@ class Solution {
             int parentVal = desc[0];
             int childVal = desc[1];
             int isLeft = desc[2];
-            TreeNode parentNode = null;
-            TreeNode childNode = null;
 
-            if (map.containsKey(parentVal)) 
-                parentNode = map.get(parentVal);
-            else
-                parentNode = new TreeNode(parentVal);
+            TreeNode parentNode = map.computeIfAbsent(
+                parentVal, k -> new TreeNode(k)
+            );
 
-            if (map.containsKey(childVal))
-                childNode = map.get(childVal);
-            else
-                childNode = new TreeNode(childVal);
+            TreeNode childNode = map.computeIfAbsent(
+                childVal, k -> new TreeNode(k)
+            );
 
             if (isLeft == 1) parentNode.left = childNode;
             else parentNode.right = childNode;
 
             hasParent.add(childVal);
-            map.put(parentVal, parentNode);
-            map.put(childVal, childNode);
         }
 
         for (int nodeVal: map.keySet()) {
