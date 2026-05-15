@@ -43,14 +43,11 @@ class Solution {
             map.put(childVal, childNode);
         }
 
-        TreeNode root = null;
-        for (Map.Entry<Integer, TreeNode> e: map.entrySet()){
-            int nodeVal = e.getKey();
-            TreeNode node = e.getValue();
-
-            if (!hasParent.getOrDefault(nodeVal, false))
-                root = node;
+        for (int nodeVal: map.keySet()) {
+            if (!hasParent.containsKey(nodeVal)) 
+                return map.get(nodeVal);
         }
-        return root;
+
+        return null;
     }
 }
