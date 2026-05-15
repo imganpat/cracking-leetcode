@@ -15,7 +15,7 @@
  */
 class Solution {
     Map<Integer, TreeNode> map = new HashMap<>();
-    Map<Integer, Boolean> hasParent = new HashMap<>();
+    Set<Integer> hasParent = new HashSet<>();
 
     public TreeNode createBinaryTree(int[][] descriptions) {
         for (int[] desc: descriptions) {
@@ -38,13 +38,13 @@ class Solution {
             if (isLeft == 1) parentNode.left = childNode;
             else parentNode.right = childNode;
 
-            hasParent.put(childVal, true);
+            hasParent.add(childVal);
             map.put(parentVal, parentNode);
             map.put(childVal, childNode);
         }
 
         for (int nodeVal: map.keySet()) {
-            if (!hasParent.containsKey(nodeVal)) 
+            if (!hasParent.contains(nodeVal)) 
                 return map.get(nodeVal);
         }
 
