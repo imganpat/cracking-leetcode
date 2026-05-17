@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/imganpat/cracking-leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imganpat/cracking-leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/imganpat/cracking-leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imganpat/cracking-leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/imganpat/cracking-leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imganpat/cracking-leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
