@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/imganpat/cracking-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/imganpat/cracking-leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/imganpat/cracking-leetcode/tree/main/0046-permutations/) | Medium |
+| [0077-combinations](https://github.com/imganpat/cracking-leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0784-letter-case-permutation](https://github.com/imganpat/cracking-leetcode/tree/main/0784-letter-case-permutation/) | Medium |
