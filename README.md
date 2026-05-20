@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3668-restore-finishing-order](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3668-restore-finishing-order) |
 | [0039-combination-sum](https://github.com/imganpat/cracking-leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/imganpat/cracking-leetcode/tree/main/0046-permutations/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/imganpat/cracking-leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/0078-subsets/) | Medium |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/imganpat/cracking-leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/imganpat/cracking-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/imganpat/cracking-leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/imganpat/cracking-leetcode/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/imganpat/cracking-leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/0078-subsets/) | Medium |
