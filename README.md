@@ -644,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0177-nth-highest-salary](https://github.com/imganpat/cracking-leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
