@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1480-running-sum-of-1d-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3668-restore-finishing-order](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3668-restore-finishing-order) |
+| [0036-valid-sudoku](https://github.com/imganpat/cracking-leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/imganpat/cracking-leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/imganpat/cracking-leetcode/tree/main/0046-permutations/) | Medium |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [3668-restore-finishing-order](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3668-restore-finishing-order) |
+| [0036-valid-sudoku](https://github.com/imganpat/cracking-leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0264-ugly-number-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/imganpat/cracking-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/imganpat/cracking-leetcode/tree/main/0355-design-twitter/) | Medium |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2454-largest-local-values-in-a-matrix](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [1972-rotating-the-box](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1972-rotating-the-box) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [0036-valid-sudoku](https://github.com/imganpat/cracking-leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/imganpat/cracking-leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
