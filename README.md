@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3195-separate-black-and-white-balls](https://github.com/imganpat/cracking-leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/imganpat/cracking-leetcode/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2182-construct-string-with-repeat-limit](https://github.com/imganpat/cracking-leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/imganpat/cracking-leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/imganpat/cracking-leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/imganpat/cracking-leetcode/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/imganpat/cracking-leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/imganpat/cracking-leetcode/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [0239-sliding-window-maximum](https://github.com/imganpat/cracking-leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3694-distinct-points-reachable-after-substring-removal](https://github.com/imganpat/cracking-leetcode/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
