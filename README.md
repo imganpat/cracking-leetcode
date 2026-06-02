@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/imganpat/cracking-leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/imganpat/cracking-leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/imganpat/cracking-leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/imganpat/cracking-leetcode/tree/main/0046-permutations/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/imganpat/cracking-leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/0078-subsets/) | Medium |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [3668-restore-finishing-order](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3668-restore-finishing-order) |
 | [0036-valid-sudoku](https://github.com/imganpat/cracking-leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0041-first-missing-positive](https://github.com/imganpat/cracking-leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0264-ugly-number-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/imganpat/cracking-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0355-design-twitter](https://github.com/imganpat/cracking-leetcode/tree/main/0355-design-twitter/) | Medium |
