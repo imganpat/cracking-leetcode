@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/imganpat/cracking-leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/imganpat/cracking-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/imganpat/cracking-leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
