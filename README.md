@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0142-linked-list-cycle-ii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/imganpat/cracking-leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0908-middle-of-the-linked-list](https://github.com/imganpat/cracking-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/imganpat/cracking-leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [0141-linked-list-cycle](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/imganpat/cracking-leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0355-design-twitter](https://github.com/imganpat/cracking-leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/imganpat/cracking-leetcode/tree/master/0908-middle-of-the-linked-list) |
