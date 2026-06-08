@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0565-array-nesting](https://github.com/imganpat/cracking-leetcode/tree/main/0565-array-nesting/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
