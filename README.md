@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1980-find-unique-binary-string](https://github.com/imganpat/cracking-leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imganpat/cracking-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/imganpat/cracking-leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/imganpat/cracking-leetcode/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/imganpat/cracking-leetcode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3195-separate-black-and-white-balls](https://github.com/imganpat/cracking-leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1980-find-unique-binary-string](https://github.com/imganpat/cracking-leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/imganpat/cracking-leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/imganpat/cracking-leetcode/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/imganpat/cracking-leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/imganpat/cracking-leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/imganpat/cracking-leetcode/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/imganpat/cracking-leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/imganpat/cracking-leetcode/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
