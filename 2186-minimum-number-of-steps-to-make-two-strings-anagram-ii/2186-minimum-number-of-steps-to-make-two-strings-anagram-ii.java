@@ -1,19 +1,19 @@
 class Solution {
     public int minSteps(String s, String t) {
-        Map<Character, Integer> map = new HashMap<>();
+        int[] freq = new int[26];
 
         for (char c: s.toCharArray()) {
-            map.put(c, map.getOrDefault(c, 0) + 1);
+            freq[c - 'a']++;
         }
         
         for (char c: t.toCharArray()) {
-            map.put(c, map.getOrDefault(c, 0) - 1);
+            freq[c - 'a']--;
         }
 
         int count = 0;
 
-        for (char c: map.keySet()) {
-            count += Math.abs(map.get(c));
+        for (int i: freq) {
+            count += Math.abs(i);
         }
 
         return count;
