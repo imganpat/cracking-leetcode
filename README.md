@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [0151-reverse-words-in-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0071-simplify-path](https://github.com/imganpat/cracking-leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/imganpat/cracking-leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/imganpat/cracking-leetcode/tree/main/0784-letter-case-permutation/) | Medium |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1430-find-the-k-beauty-of-a-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2481-strictly-palindromic-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [0096-unique-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/imganpat/cracking-leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0477-total-hamming-distance](https://github.com/imganpat/cracking-leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0509-fibonacci-number](https://github.com/imganpat/cracking-leetcode/tree/main/0509-fibonacci-number/) | Easy |
