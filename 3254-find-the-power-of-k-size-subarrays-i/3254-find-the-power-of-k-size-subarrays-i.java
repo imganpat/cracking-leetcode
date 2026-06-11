@@ -5,18 +5,19 @@ class Solution {
         int [] res = new int[n - k + 1];
 
         for (int start = 0, end = 0; end < n; end++) {
-            boolean isValid = true;
 
-            for (int i = start; i < end; i++) {
-                if (nums[i] + 1 != nums[i + 1]) {
-                    isValid = false;
-                    break;
+            if (end - start + 1 == k) {                
+                boolean isValid = true;
+
+                for (int i = start; i < end; i++) {
+                    if (nums[i] + 1 != nums[i + 1]) {
+                        isValid = false;
+                        break;
+                    }
                 }
-            }
 
-            int power = isValid ? nums[end] : -1;
+                int power = isValid ? nums[end] : -1;
 
-            if (end - start + 1 == k) {
                 res[index++] = power;
                 start++;
             }
