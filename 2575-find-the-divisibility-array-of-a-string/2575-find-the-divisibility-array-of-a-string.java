@@ -6,7 +6,10 @@ class Solution {
         long rem = 0;
         for (int i = 0; i < n; i++) {
             rem = (rem * 10 + Character.getNumericValue(word.charAt(i))) % m;
-            res[i] = rem == 0 ? 1 : 0;
+
+            if (rem == 0) {
+                res[i] = 1;
+            }
         }
 
         return res;
