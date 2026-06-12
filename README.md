@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/imganpat/cracking-leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/imganpat/cracking-leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/imganpat/cracking-leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/imganpat/cracking-leetcode/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2182-construct-string-with-repeat-limit](https://github.com/imganpat/cracking-leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/imganpat/cracking-leetcode/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/imganpat/cracking-leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [3019-number-of-changing-keys](https://github.com/imganpat/cracking-leetcode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3195-separate-black-and-white-balls](https://github.com/imganpat/cracking-leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/imganpat/cracking-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/imganpat/cracking-leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [2575-find-the-divisibility-array-of-a-string](https://github.com/imganpat/cracking-leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
