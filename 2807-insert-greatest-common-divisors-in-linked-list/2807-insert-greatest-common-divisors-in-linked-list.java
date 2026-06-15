@@ -15,11 +15,11 @@ class Solution {
 
         while (q != null) {
             int v = getGCD(p.val, q.val);
-            
+
             ListNode newNode = new ListNode(v);
             p.next = newNode;
             newNode.next = q;
-            
+
             p = q;
             q = p.next;
         }
@@ -28,14 +28,11 @@ class Solution {
     }
 
     public int getGCD(int x, int y) {
-        int start = Math.min(x, y);
-
-        for(int i = start; i >= 1; i--) {
-            if (x % i == 0 && y % i == 0) {
-                return i;
-            }
+        while (y != 0) {
+            int t = y;
+            y = x % y;
+            x = t;
         }
-
-        return 1;
+        return x;
     }
 }
