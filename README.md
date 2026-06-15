@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0908-middle-of-the-linked-list](https://github.com/imganpat/cracking-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1367-linked-list-in-binary-tree/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1352-product-of-the-last-k-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/imganpat/cracking-leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/imganpat/cracking-leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## String Matching
@@ -715,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0526-beautiful-arrangement](https://github.com/imganpat/cracking-leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
