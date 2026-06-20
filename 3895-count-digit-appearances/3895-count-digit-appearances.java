@@ -1,16 +1,15 @@
 class Solution {
     public int countDigitOccurrences(int[] nums, int digit) {
-        int count = 0;
+        int [] freq = new int[10];
 
         for (int num: nums) {
             while (num > 0) {
-                if (num % 10 == digit) {
-                    count++;
-                }
+                int d = num % 10;
+                freq[d]++;
                 num /= 10;
             }
         }
 
-        return count;
+        return freq[digit];
     }
 }
