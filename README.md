@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0142-linked-list-cycle-ii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/imganpat/cracking-leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0355-design-twitter](https://github.com/imganpat/cracking-leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/imganpat/cracking-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
