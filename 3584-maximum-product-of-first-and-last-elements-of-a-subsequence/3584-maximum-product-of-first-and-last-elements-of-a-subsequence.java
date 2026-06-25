@@ -1,21 +1,19 @@
 class Solution {
     public long maximumProduct(int[] nums, int m) {
-        int n = nums.length;
-        long ans = Long.MIN_VALUE;
+        long min = Long.MAX_VALUE;
+        long max = Long.MIN_VALUE;
+        long res = Long.MIN_VALUE;
 
-        long maxStart = Long.MIN_VALUE;
-        long minStart = Long.MAX_VALUE;
+        for (int i = m - 1; i < nums.length; i++) {
+            int index = i - m + 1;
 
-        for (int j = m - 1; j < n; j++) {
-            int startIdx = j - m + 1;
+            min = Math.min(nums[index], min);
+            max = Math.max(nums[index], max);
 
-            maxStart = Math.max(maxStart, nums[startIdx]);
-            minStart = Math.min(minStart, nums[startIdx]);
-
-            ans = Math.max(ans, maxStart * nums[j]);
-            ans = Math.max(ans, minStart * nums[j]);
+            res = Math.max(1L * nums[i] * min, res);
+            res = Math.max(1L * nums[i] * max, res);
         }
 
-        return ans;
+        return res;
     }
 }
