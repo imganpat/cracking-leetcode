@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/imganpat/cracking-leetcode/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/imganpat/cracking-leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/imganpat/cracking-leetcode/tree/main/3584-maximum-product-of-first-and-last-elements-of-a-subsequence/) | Medium |
 | [3895-count-digit-appearances](https://github.com/imganpat/cracking-leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0908-middle-of-the-linked-list](https://github.com/imganpat/cracking-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/imganpat/cracking-leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [3195-separate-black-and-white-balls](https://github.com/imganpat/cracking-leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/imganpat/cracking-leetcode/tree/main/3584-maximum-product-of-first-and-last-elements-of-a-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
