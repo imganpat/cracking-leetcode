@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/imganpat/cracking-leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/imganpat/cracking-leetcode/tree/main/3584-maximum-product-of-first-and-last-elements-of-a-subsequence/) | Medium |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/imganpat/cracking-leetcode/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
+| [3834-merge-adjacent-equal-elements](https://github.com/imganpat/cracking-leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3895-count-digit-appearances](https://github.com/imganpat/cracking-leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2181-merge-nodes-in-between-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2974-minimum-number-game](https://github.com/imganpat/cracking-leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3834-merge-adjacent-equal-elements](https://github.com/imganpat/cracking-leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [3834-merge-adjacent-equal-elements](https://github.com/imganpat/cracking-leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
