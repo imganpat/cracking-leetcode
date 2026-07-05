@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0189-rotate-array](https://github.com/imganpat/cracking-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/imganpat/cracking-leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0443-string-compression](https://github.com/imganpat/cracking-leetcode/tree/main/0443-string-compression/) | Medium |
 | [0908-middle-of-the-linked-list](https://github.com/imganpat/cracking-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/imganpat/cracking-leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [3195-separate-black-and-white-balls](https://github.com/imganpat/cracking-leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0071-simplify-path](https://github.com/imganpat/cracking-leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/imganpat/cracking-leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0443-string-compression](https://github.com/imganpat/cracking-leetcode/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/imganpat/cracking-leetcode/tree/main/0784-letter-case-permutation/) | Medium |
