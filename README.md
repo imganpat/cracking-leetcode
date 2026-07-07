@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/imganpat/cracking-leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/imganpat/cracking-leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
