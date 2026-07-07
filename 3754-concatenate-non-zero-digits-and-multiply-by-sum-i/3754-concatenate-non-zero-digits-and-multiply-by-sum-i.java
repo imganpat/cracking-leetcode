@@ -1,15 +1,26 @@
 class Solution {
     public long sumAndMultiply(int n) {
-        String s = String.valueOf(n).replace("0", "");
         long sum = 0;
+        long reversedX = 0;
 
-        for(int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            sum += c - '0';
+        while (n != 0) {
+            int d = n % 10;
+            sum += d;
+            
+            if (d != 0) {
+                reversedX = reversedX * 10 + d;
+            }
+
+            n /= 10;
         }
 
-        long x = s.isEmpty() ? 0: sum * Long.parseLong(s);
+        long x = 0;
 
-        return x;
+        while (reversedX != 0) {
+            x = x * 10 + reversedX % 10;
+            reversedX /= 10;
+        }
+
+        return x * sum;
     }
 }
