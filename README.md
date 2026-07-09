@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0784-letter-case-permutation](https://github.com/imganpat/cracking-leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/imganpat/cracking-leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1396-design-underground-system](https://github.com/imganpat/cracking-leetcode/tree/main/1396-design-underground-system/) | Medium |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/imganpat/cracking-leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/imganpat/cracking-leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1487-making-file-names-unique](https://github.com/imganpat/cracking-leetcode/tree/main/1487-making-file-names-unique/) | Medium |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/imganpat/cracking-leetcode/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2265-partition-array-according-to-given-pivot](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3811-reverse-degree-of-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/imganpat/cracking-leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [2079-watering-plants](https://github.com/imganpat/cracking-leetcode/tree/main/2079-watering-plants/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2974-minimum-number-game](https://github.com/imganpat/cracking-leetcode/tree/main/2974-minimum-number-game/) | Easy |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0477-total-hamming-distance](https://github.com/imganpat/cracking-leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/imganpat/cracking-leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/imganpat/cracking-leetcode/tree/main/0784-letter-case-permutation/) | Medium |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/imganpat/cracking-leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Prefix Sum
