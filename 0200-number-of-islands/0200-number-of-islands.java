@@ -19,7 +19,6 @@
 class Solution {
     private int rows;
     private int cols;
-    private boolean[][] visited;
 
     // Four possible directions
     private final int[][] DIRECTIONS = {
@@ -32,15 +31,13 @@ class Solution {
     public int numIslands(char[][] grid) {
         rows = grid.length;
         cols = grid[0].length;
-        visited = new boolean[rows][cols];
 
         int islands = 0;
 
         // Visit every cell
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
-                if (grid[i][j] == '1'
-                        && !visited[i][j]) {
+                if (grid[i][j] == '1') {
                     dfs(grid, i, j);
                     islands++;
                 }
@@ -51,7 +48,7 @@ class Solution {
     }
 
     private void dfs(char[][] grid, int row, int col) {
-        visited[row][col] = true;
+        grid[row][col] = '0';
 
         // Explore all four neighbors
         for (int[] dir : DIRECTIONS) {
@@ -59,8 +56,7 @@ class Solution {
             int newCol = col + dir[1];
 
             if (isValid(newRow, newCol)
-                    && grid[newRow][newCol] == '1'
-                    && !visited[newRow][newCol]) {
+                    && grid[newRow][newCol] == '1') {
 
                 dfs(grid, newRow, newCol);
             }
