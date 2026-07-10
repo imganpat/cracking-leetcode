@@ -1,8 +1,27 @@
+// Approach: DFS (Connected Components)
+// 1. Traverse every cell in the grid.
+// 2. When an unvisited land cell ('1') is found:
+//      - It represents a new island.
+//      - Perform DFS to visit all land cells connected
+//        to it in four directions.
+// 3. During DFS:
+//      - Mark the current cell as visited.
+//      - Explore its valid neighboring land cells.
+// 4. After DFS finishes, the entire island has been explored.
+// 5. Continue scanning the grid for the next unvisited island.
+// 6. Return the total number of islands.
+//
+// Time complexity: O(rows × cols)
+//   - Every cell is visited at most once
+// Space complexity: O(rows × cols)
+//   - Visited array + recursion stack in the worst case
+
 class Solution {
     private int rows;
     private int cols;
     private boolean[][] visited;
 
+    // Four possible directions
     private final int[][] DIRECTIONS = {
             { -1, 0 },
             { 1, 0 },
@@ -17,9 +36,11 @@ class Solution {
 
         int islands = 0;
 
+        // Visit every cell
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
-                if (grid[i][j] == '1' && !visited[i][j]) {
+                if (grid[i][j] == '1'
+                        && !visited[i][j]) {
                     dfs(grid, i, j);
                     islands++;
                 }
@@ -27,12 +48,12 @@ class Solution {
         }
 
         return islands;
-
     }
 
     private void dfs(char[][] grid, int row, int col) {
         visited[row][col] = true;
 
+        // Explore all four neighbors
         for (int[] dir : DIRECTIONS) {
             int newRow = row + dir[0];
             int newCol = col + dir[1];
@@ -47,6 +68,9 @@ class Solution {
     }
 
     private boolean isValid(int row, int col) {
-        return row >= 0 && row < rows && col >= 0 && col < cols;
+        return row >= 0
+                && row < rows
+                && col >= 0
+                && col < cols;
     }
 }
