@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/imganpat/cracking-leetcode/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/imganpat/cracking-leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/imganpat/cracking-leetcode/tree/main/3584-maximum-product-of-first-and-last-elements-of-a-subsequence/) | Medium |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/imganpat/cracking-leetcode/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/imganpat/cracking-leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/imganpat/cracking-leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/imganpat/cracking-leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/imganpat/cracking-leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/imganpat/cracking-leetcode/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/imganpat/cracking-leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/imganpat/cracking-leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/imganpat/cracking-leetcode/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imganpat/cracking-leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -805,4 +809,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/imganpat/cracking-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/imganpat/cracking-leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imganpat/cracking-leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
