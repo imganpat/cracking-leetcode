@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/imganpat/cracking-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/imganpat/cracking-leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/imganpat/cracking-leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/imganpat/cracking-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/imganpat/cracking-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/imganpat/cracking-leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/imganpat/cracking-leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/imganpat/cracking-leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 ## Bit Manipulation
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/imganpat/cracking-leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imganpat/cracking-leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/imganpat/cracking-leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0958-check-completeness-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/imganpat/cracking-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imganpat/cracking-leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/imganpat/cracking-leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/imganpat/cracking-leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
@@ -808,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/imganpat/cracking-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/imganpat/cracking-leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/imganpat/cracking-leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imganpat/cracking-leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
