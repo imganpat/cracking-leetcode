@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1487-making-file-names-unique](https://github.com/imganpat/cracking-leetcode/tree/main/1487-making-file-names-unique/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/imganpat/cracking-leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/imganpat/cracking-leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/imganpat/cracking-leetcode/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/imganpat/cracking-leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/imganpat/cracking-leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/imganpat/cracking-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/imganpat/cracking-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/imganpat/cracking-leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/imganpat/cracking-leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/imganpat/cracking-leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 ## Bit Manipulation
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/imganpat/cracking-leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imganpat/cracking-leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imganpat/cracking-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/imganpat/cracking-leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/imganpat/cracking-leetcode/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/imganpat/cracking-leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imganpat/cracking-leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/imganpat/cracking-leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -816,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/imganpat/cracking-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/imganpat/cracking-leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/imganpat/cracking-leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1559-detect-cycles-in-2d-grid](https://github.com/imganpat/cracking-leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imganpat/cracking-leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
