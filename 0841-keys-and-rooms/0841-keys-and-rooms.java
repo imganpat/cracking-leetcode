@@ -1,18 +1,16 @@
 class Solution {
-    Set<Integer> visited;
-
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
-        visited = new HashSet<>();
-        dfs(rooms, 0);
+        Set<Integer> visited = new HashSet<>();
+        dfs(rooms, 0, visited);
         return rooms.size() == visited.size();
     }
 
-    private void dfs(List<List<Integer>> rooms, int room) {
+    private void dfs(List<List<Integer>> rooms, int room, Set<Integer> visited) {
         visited.add(room);
 
         for (int nextRoom : rooms.get(room)) {
             if (!visited.contains(nextRoom)) {
-                dfs(rooms, nextRoom);
+                dfs(rooms, nextRoom, visited);
             }
         }
     }
