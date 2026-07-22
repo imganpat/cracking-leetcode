@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/imganpat/cracking-leetcode/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/imganpat/cracking-leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3895-count-digit-appearances](https://github.com/imganpat/cracking-leetcode/tree/main/3895-count-digit-appearances/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/imganpat/cracking-leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1559-detect-cycles-in-2d-grid](https://github.com/imganpat/cracking-leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/imganpat/cracking-leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/imganpat/cracking-leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1971-find-if-path-exists-in-graph](https://github.com/imganpat/cracking-leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/imganpat/cracking-leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/imganpat/cracking-leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
