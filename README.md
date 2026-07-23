@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/imganpat/cracking-leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/imganpat/cracking-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/imganpat/cracking-leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0477-total-hamming-distance](https://github.com/imganpat/cracking-leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0502-ipo](https://github.com/imganpat/cracking-leetcode/tree/main/0502-ipo/) | Hard |
 | [0526-beautiful-arrangement](https://github.com/imganpat/cracking-leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/imganpat/cracking-leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/imganpat/cracking-leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/imganpat/cracking-leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/imganpat/cracking-leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0733-flood-fill](https://github.com/imganpat/cracking-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/imganpat/cracking-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/imganpat/cracking-leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0419-battleships-in-a-board](https://github.com/imganpat/cracking-leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/imganpat/cracking-leetcode/tree/main/0547-number-of-provinces/) | Medium |
