@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0355-design-twitter](https://github.com/imganpat/cracking-leetcode/tree/main/0355-design-twitter/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imganpat/cracking-leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/imganpat/cracking-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/imganpat/cracking-leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/imganpat/cracking-leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/imganpat/cracking-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/imganpat/cracking-leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/imganpat/cracking-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imganpat/cracking-leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -773,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
