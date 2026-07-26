@@ -1,5 +1,9 @@
 class Solution {
     public int maximumProduct(int[] nums) {
+        if (nums.length  ==  3) {
+            return nums[0] * nums[1] * nums[2];
+        }
+        
         int max1 = Integer.MIN_VALUE;
         int max2 = Integer.MIN_VALUE;
         int max3 = Integer.MIN_VALUE; 
