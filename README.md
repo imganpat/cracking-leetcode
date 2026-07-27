@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0071-simplify-path](https://github.com/imganpat/cracking-leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/imganpat/cracking-leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/imganpat/cracking-leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0443-string-compression](https://github.com/imganpat/cracking-leetcode/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0071-simplify-path](https://github.com/imganpat/cracking-leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0316-remove-duplicate-letters](https://github.com/imganpat/cracking-leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [0455-assign-cookies](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0455-assign-cookies) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [0316-remove-duplicate-letters](https://github.com/imganpat/cracking-leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0502-ipo](https://github.com/imganpat/cracking-leetcode/tree/main/0502-ipo/) | Hard |
 | [0630-course-schedule-iii](https://github.com/imganpat/cracking-leetcode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/imganpat/cracking-leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Database
