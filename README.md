@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/imganpat/cracking-leetcode/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/imganpat/cracking-leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imganpat/cracking-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3019-number-of-changing-keys](https://github.com/imganpat/cracking-leetcode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3195-separate-black-and-white-balls](https://github.com/imganpat/cracking-leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/imganpat/cracking-leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imganpat/cracking-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/imganpat/cracking-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2182-construct-string-with-repeat-limit](https://github.com/imganpat/cracking-leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imganpat/cracking-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3195-separate-black-and-white-balls](https://github.com/imganpat/cracking-leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/imganpat/cracking-leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/imganpat/cracking-leetcode/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
