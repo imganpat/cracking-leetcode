@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0630-course-schedule-iii](https://github.com/imganpat/cracking-leetcode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/imganpat/cracking-leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0877-stone-game](https://github.com/imganpat/cracking-leetcode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/imganpat/cracking-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/imganpat/cracking-leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/imganpat/cracking-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/imganpat/cracking-leetcode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1017-convert-to-base-2](https://github.com/imganpat/cracking-leetcode/tree/main/1017-convert-to-base-2/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/imganpat/cracking-leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/imganpat/cracking-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/imganpat/cracking-leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0877-stone-game](https://github.com/imganpat/cracking-leetcode/tree/main/0877-stone-game/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -876,4 +879,5 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/imganpat/cracking-leetcode/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/imganpat/cracking-leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
