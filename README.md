@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/imganpat/cracking-leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3584-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/imganpat/cracking-leetcode/tree/main/3584-maximum-product-of-first-and-last-elements-of-a-subsequence/) | Medium |
+| [3731-find-missing-elements](https://github.com/imganpat/cracking-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/imganpat/cracking-leetcode/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/imganpat/cracking-leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3895-count-digit-appearances](https://github.com/imganpat/cracking-leetcode/tree/main/3895-count-digit-appearances/) | Medium |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/imganpat/cracking-leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/imganpat/cracking-leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/imganpat/cracking-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/imganpat/cracking-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/imganpat/cracking-leetcode/tree/main/3767-maximize-points-after-choosing-k-tasks/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imganpat/cracking-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/imganpat/cracking-leetcode/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
+| [3731-find-missing-elements](https://github.com/imganpat/cracking-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
