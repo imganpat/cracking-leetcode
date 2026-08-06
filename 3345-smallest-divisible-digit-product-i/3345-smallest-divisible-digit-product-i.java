@@ -1,6 +1,6 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        for (int i = n; i < Integer.MAX_VALUE; i++) {
+        for (int i = n; i <= 100; i++) {
             int product = getProduct(i);
             if (product % t == 0) {
                 return i;
