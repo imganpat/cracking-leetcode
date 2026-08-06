@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imganpat/cracking-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/imganpat/cracking-leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/imganpat/cracking-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/imganpat/cracking-leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/imganpat/cracking-leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
