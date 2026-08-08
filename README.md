@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1367-linked-list-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/imganpat/cracking-leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imganpat/cracking-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/imganpat/cracking-leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/imganpat/cracking-leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
