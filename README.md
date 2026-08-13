@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0630-course-schedule-iii](https://github.com/imganpat/cracking-leetcode/tree/main/0630-course-schedule-iii/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/imganpat/cracking-leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0877-stone-game](https://github.com/imganpat/cracking-leetcode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/imganpat/cracking-leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/imganpat/cracking-leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/imganpat/cracking-leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/imganpat/cracking-leetcode/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/imganpat/cracking-leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0785-is-graph-bipartite](https://github.com/imganpat/cracking-leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/imganpat/cracking-leetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imganpat/cracking-leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/imganpat/cracking-leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -917,4 +920,12 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/imganpat/cracking-leetcode/tree/main/1406-stone-game-iii/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
 <!---LeetCode Topics End-->
