@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/imganpat/cracking-leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/imganpat/cracking-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -732,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/imganpat/cracking-leetcode/tree/main/0112-path-sum/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/imganpat/cracking-leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0200-number-of-islands](https://github.com/imganpat/cracking-leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/imganpat/cracking-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/imganpat/cracking-leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/imganpat/cracking-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/imganpat/cracking-leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/imganpat/cracking-leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -928,9 +931,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/imganpat/cracking-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/imganpat/cracking-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
 <!---LeetCode Topics End-->
