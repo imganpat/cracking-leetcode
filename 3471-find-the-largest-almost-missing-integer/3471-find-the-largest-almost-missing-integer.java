@@ -1,27 +1,31 @@
 class Solution {
     public int largestInteger(int[] nums, int k) {
-        Map<Integer, Integer> map = new HashMap<>();
+        int n = nums.length;
 
-        for (int i = 0; i <= nums.length - k; i++) {
-            Set<Integer> set = new HashSet<>();
+        int[] count = new int[51];
+
+        for (int i = 0; i <= n - k; i++) {
+            boolean[] seen = new boolean[51];
 
             for (int j = i; j < i + k; j++) {
-                set.add(nums[j]);
+                seen[nums[j]] = true;
             }
 
-            for (int num: set) {
-                map.put(num, map.getOrDefault(num, 0) + 1);
+            for (int x = 0; x < 51; x++) {
+                if (seen[x]) {
+                    count[x]++;
+                }
             }
         }
 
         int ans = -1;
 
-        for (int num: map.keySet()) {
-            if (map.get(num) == 1) {
-                ans = Math.max(num, ans);
+        for (int i = 50; i>= 0; i--) {
+            if (count[i] == 1) {
+                return i;
             }
         }
 
-        return ans;
+        return -1;
     }
 }
