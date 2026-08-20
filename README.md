@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/imganpat/cracking-leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imganpat/cracking-leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/imganpat/cracking-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/imganpat/cracking-leetcode/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/imganpat/cracking-leetcode/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2079-watering-plants](https://github.com/imganpat/cracking-leetcode/tree/main/2079-watering-plants/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2974-minimum-number-game](https://github.com/imganpat/cracking-leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/imganpat/cracking-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/imganpat/cracking-leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3834-merge-adjacent-equal-elements](https://github.com/imganpat/cracking-leetcode/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Hash Table
