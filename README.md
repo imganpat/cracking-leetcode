@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/imganpat/cracking-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/imganpat/cracking-leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/imganpat/cracking-leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/imganpat/cracking-leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/imganpat/cracking-leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/imganpat/cracking-leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/imganpat/cracking-leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/imganpat/cracking-leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/imganpat/cracking-leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/imganpat/cracking-leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/imganpat/cracking-leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/imganpat/cracking-leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [1462-course-schedule-iv](https://github.com/imganpat/cracking-leetcode/tree/main/1462-course-schedule-iv/) | Medium |
@@ -943,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/imganpat/cracking-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/imganpat/cracking-leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [1462-course-schedule-iv](https://github.com/imganpat/cracking-leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 ## Directed Acyclic Graph
@@ -950,4 +954,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/imganpat/cracking-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/imganpat/cracking-leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/imganpat/cracking-leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
