@@ -724,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1462-course-schedule-iv](https://github.com/imganpat/cracking-leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/imganpat/cracking-leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imganpat/cracking-leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/imganpat/cracking-leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/imganpat/cracking-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/imganpat/cracking-leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1462-course-schedule-iv](https://github.com/imganpat/cracking-leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/imganpat/cracking-leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imganpat/cracking-leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/imganpat/cracking-leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/imganpat/cracking-leetcode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/imganpat/cracking-leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1462-course-schedule-iv](https://github.com/imganpat/cracking-leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imganpat/cracking-leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/imganpat/cracking-leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/imganpat/cracking-leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/imganpat/cracking-leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -949,11 +952,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0802-find-eventual-safe-states](https://github.com/imganpat/cracking-leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [1462-course-schedule-iv](https://github.com/imganpat/cracking-leetcode/tree/main/1462-course-schedule-iv/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/imganpat/cracking-leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/imganpat/cracking-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/imganpat/cracking-leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
