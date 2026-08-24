@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1980-find-unique-binary-string](https://github.com/imganpat/cracking-leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imganpat/cracking-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/imganpat/cracking-leetcode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2079-watering-plants](https://github.com/imganpat/cracking-leetcode/tree/main/2079-watering-plants/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/imganpat/cracking-leetcode/tree/main/0877-stone-game/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1406-stone-game-iii](https://github.com/imganpat/cracking-leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [2050-parallel-courses-iii](https://github.com/imganpat/cracking-leetcode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Monotonic Queue
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1462-course-schedule-iv](https://github.com/imganpat/cracking-leetcode/tree/main/1462-course-schedule-iv/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imganpat/cracking-leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2050-parallel-courses-iii](https://github.com/imganpat/cracking-leetcode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/imganpat/cracking-leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/imganpat/cracking-leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/imganpat/cracking-leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -956,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0802-find-eventual-safe-states](https://github.com/imganpat/cracking-leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [1462-course-schedule-iv](https://github.com/imganpat/cracking-leetcode/tree/main/1462-course-schedule-iv/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/imganpat/cracking-leetcode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/imganpat/cracking-leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/imganpat/cracking-leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Directed Acyclic Graph
@@ -963,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/imganpat/cracking-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/imganpat/cracking-leetcode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/imganpat/cracking-leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/imganpat/cracking-leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
 ## Kosaraju's Algorithm
