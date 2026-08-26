@@ -11,15 +11,8 @@ class Solution {
             colOrder.add(new ArrayList<>());
         }
 
-        for (int[] row :  rowConditions)  {
-            rowOrder.get(row[0]).add(row[1]);
-            rowIndegree[row[1]]++;
-        }
-
-        for (int[] col :  colConditions)  {
-            colOrder.get(col[0]).add(col[1]);
-            colIndegree[col[1]]++;
-        }
+        getOrder(rowConditions, rowOrder, rowIndegree); 
+        getOrder(colConditions, colOrder, colIndegree); 
 
         List<Integer> rowSeq = topologicalSort(k, rowOrder, rowIndegree);
         List<Integer> colSeq = topologicalSort(k, colOrder, colIndegree);
@@ -30,7 +23,7 @@ class Solution {
 
         int[][] res  = new int[k][k];
 
-        for (int i  = 1; i <= k;  i++){
+        for (int i = 1; i <= k;  i++){
             int rowPos = rowSeq.indexOf(i);
             int colPos = colSeq.indexOf(i);
 
@@ -38,6 +31,13 @@ class Solution {
         }
         
         return res;
+    }
+
+    private void getOrder(int[][] conditions, List<List<Integer>>order, int[] indegree) {
+        for (int[] con: conditions)  {
+            order.get(con[0]).add(con[1]);
+            indegree[con[1]]++;
+        }
     }
 
     private List<Integer> topologicalSort(int k, List<List<Integer>> graph, int[] indegree) {
@@ -61,7 +61,7 @@ class Solution {
                 }
             }
         }
-    
+
         if (order.size() != k)  {
             return new ArrayList<>();
         }
