@@ -21,13 +21,18 @@ class Solution {
             return new int[0][0];
         }
 
+        int[] rowIndices  =  new int[k+1];
+        int[] colIndices  =  new int[k+1];
+        
+        for (int i = 0; i < k; i++){
+            rowIndices[rowOrder.get(i)] = i;
+            colIndices[colOrder.get(i)] = i;
+        }
+
         int[][] matrix  = new int[k][k];
 
         for (int num = 1; num <= k;  num++){
-            int rowIndex = rowOrder.indexOf(num);
-            int colIndex = colOrder.indexOf(num);
-
-            matrix[rowIndex][colIndex] = num;
+            matrix[rowIndices[num]][colIndices[num]] = num;
         }
         
         return matrix;
