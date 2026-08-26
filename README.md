@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/imganpat/cracking-leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/imganpat/cracking-leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2392-build-a-matrix-with-conditions](https://github.com/imganpat/cracking-leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/imganpat/cracking-leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1559-detect-cycles-in-2d-grid](https://github.com/imganpat/cracking-leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/imganpat/cracking-leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2392-build-a-matrix-with-conditions](https://github.com/imganpat/cracking-leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [3898-find-the-degree-of-each-vertex](https://github.com/imganpat/cracking-leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2050-parallel-courses-iii](https://github.com/imganpat/cracking-leetcode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/imganpat/cracking-leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/imganpat/cracking-leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+| [2392-build-a-matrix-with-conditions](https://github.com/imganpat/cracking-leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/imganpat/cracking-leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/imganpat/cracking-leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2050-parallel-courses-iii](https://github.com/imganpat/cracking-leetcode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/imganpat/cracking-leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/imganpat/cracking-leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+| [2392-build-a-matrix-with-conditions](https://github.com/imganpat/cracking-leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -972,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2050-parallel-courses-iii](https://github.com/imganpat/cracking-leetcode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/imganpat/cracking-leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/imganpat/cracking-leetcode/tree/main/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | Medium |
+| [2392-build-a-matrix-with-conditions](https://github.com/imganpat/cracking-leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
