@@ -1,42 +1,42 @@
 class Solution {
     public int[][] buildMatrix(int k, int[][] rowConditions, int[][] colConditions) {
-        List<List<Integer>> rowOrder = new  ArrayList<>();
-        List<List<Integer>> colOrder = new  ArrayList<>();
+        List<List<Integer>> rowGraph = new  ArrayList<>();
+        List<List<Integer>> colGraph = new  ArrayList<>();
 
-        int[] rowIndegree = new int[k + 1];
-        int[] colIndegree = new int[k + 1];
+        int[] rowInDegree = new int[k + 1];
+        int[] colInDegree = new int[k + 1];
 
         for (int i = 0; i <= k; i++) {
-            rowOrder.add(new ArrayList<>());
-            colOrder.add(new ArrayList<>());
+            rowGraph.add(new ArrayList<>());
+            colGraph.add(new ArrayList<>());
         }
 
-        getOrder(rowConditions, rowOrder, rowIndegree); 
-        getOrder(colConditions, colOrder, colIndegree); 
+        buildGraph(rowConditions, rowGraph, rowInDegree); 
+        buildGraph(colConditions, colGraph, colInDegree); 
 
-        List<Integer> rowSeq = topologicalSort(k, rowOrder, rowIndegree);
-        List<Integer> colSeq = topologicalSort(k, colOrder, colIndegree);
+        List<Integer> rowOrder = topologicalSort(k, rowGraph, rowInDegree);
+        List<Integer> colOrder = topologicalSort(k, colGraph, colInDegree);
 
-        if  (rowSeq.isEmpty() || colSeq.isEmpty()){
+        if  (rowOrder.isEmpty() || colOrder.isEmpty()){
             return new int[0][0];
         }
 
-        int[][] res  = new int[k][k];
+        int[][] matrix  = new int[k][k];
 
-        for (int i = 1; i <= k;  i++){
-            int rowPos = rowSeq.indexOf(i);
-            int colPos = colSeq.indexOf(i);
+        for (int num = 1; num <= k;  num++){
+            int rowIndex = rowOrder.indexOf(num);
+            int colIndex = colOrder.indexOf(num);
 
-            res[rowPos][colPos] = i;
+            matrix[rowIndex][colIndex] = num;
         }
         
-        return res;
+        return matrix;
     }
 
-    private void getOrder(int[][] conditions, List<List<Integer>>order, int[] indegree) {
-        for (int[] con: conditions)  {
-            order.get(con[0]).add(con[1]);
-            indegree[con[1]]++;
+    private void buildGraph(int[][] conditions, List<List<Integer>>graph, int[] indegree) {
+        for (int[] condition: conditions)  {
+            graph.get(condition[0]).add(condition[1]);
+            indegree[condition[1]]++;
         }
     }
 
@@ -48,25 +48,25 @@ class Solution {
             }
         }
 
-        List<Integer> order = new ArrayList<>();
+        List<Integer> topologicalOrder = new ArrayList<>();
         while  (!queue.isEmpty()) {
-            int curr = queue.poll();
-            order.add(curr);
+            int current = queue.poll();
+            topologicalOrder.add(current);
 
-            for (int next : graph.get(curr))  {
-                indegree[next]--;
+            for (int neighbor : graph.get(current))  {
+                indegree[neighbor]--;
 
-                if (indegree[next] == 0){
-                    queue.offer(next);
+                if (indegree[neighbor] == 0){
+                    queue.offer(neighbor);
                 }
             }
         }
 
-        if (order.size() != k)  {
+        if (topologicalOrder.size() != k)  {
             return new ArrayList<>();
         }
 
-        return order;
+        return topologicalOrder;
 
     }
 }
