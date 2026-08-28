@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2481-strictly-palindromic-number](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [0070-climbing-stairs](https://github.com/imganpat/cracking-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/imganpat/cracking-leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/imganpat/cracking-leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/imganpat/cracking-leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0070-climbing-stairs](https://github.com/imganpat/cracking-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0264-ugly-number-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0397-integer-replacement](https://github.com/imganpat/cracking-leetcode/tree/main/0397-integer-replacement/) | Medium |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/imganpat/cracking-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0397-integer-replacement](https://github.com/imganpat/cracking-leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0509-fibonacci-number](https://github.com/imganpat/cracking-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0894-all-possible-full-binary-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
