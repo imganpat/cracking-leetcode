@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3536-maximum-product-of-two-digits](https://github.com/imganpat/cracking-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/imganpat/cracking-leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/imganpat/cracking-leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 | [3895-count-digit-appearances](https://github.com/imganpat/cracking-leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2050-parallel-courses-iii](https://github.com/imganpat/cracking-leetcode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/imganpat/cracking-leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
