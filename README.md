@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0994-rotting-oranges](https://github.com/imganpat/cracking-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/imganpat/cracking-leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/imganpat/cracking-leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/imganpat/cracking-leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/imganpat/cracking-leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/imganpat/cracking-leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/imganpat/cracking-leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/imganpat/cracking-leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1396-design-underground-system](https://github.com/imganpat/cracking-leetcode/tree/main/1396-design-underground-system/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/imganpat/cracking-leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imganpat/cracking-leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/imganpat/cracking-leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/imganpat/cracking-leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/imganpat/cracking-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/imganpat/cracking-leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2182-construct-string-with-repeat-limit](https://github.com/imganpat/cracking-leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/imganpat/cracking-leetcode/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imganpat/cracking-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0477-total-hamming-distance](https://github.com/imganpat/cracking-leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/imganpat/cracking-leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/imganpat/cracking-leetcode/tree/main/0784-letter-case-permutation/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/imganpat/cracking-leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/imganpat/cracking-leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -645,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0526-beautiful-arrangement](https://github.com/imganpat/cracking-leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0877-stone-game](https://github.com/imganpat/cracking-leetcode/tree/main/0877-stone-game/) | Medium |
 | [0894-all-possible-full-binary-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/imganpat/cracking-leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1406-stone-game-iii](https://github.com/imganpat/cracking-leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/imganpat/cracking-leetcode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
@@ -687,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0526-beautiful-arrangement](https://github.com/imganpat/cracking-leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/imganpat/cracking-leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/imganpat/cracking-leetcode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/imganpat/cracking-leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/imganpat/cracking-leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/imganpat/cracking-leetcode/tree/main/1593-split-a-string-into-the-max-number-of-unique-substrings/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/imganpat/cracking-leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -930,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0526-beautiful-arrangement](https://github.com/imganpat/cracking-leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/imganpat/cracking-leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
