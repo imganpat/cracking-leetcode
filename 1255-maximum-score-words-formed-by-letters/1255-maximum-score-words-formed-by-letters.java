@@ -40,8 +40,7 @@ class Solution {
             wordFreq[c - 'a']++;
         }
 
-        for (char c: word.toCharArray()) {
-            int i = c - 'a';
+        for (int i = 0; i < 26; i++) {
             if (wordFreq[i] >  freq[i])  {
                 return false;
             }
