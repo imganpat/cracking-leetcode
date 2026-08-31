@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/imganpat/cracking-leetcode/tree/main/0046-permutations/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/imganpat/cracking-leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/imganpat/cracking-leetcode/tree/main/0078-subsets/) | Medium |
+| [0118-pascals-triangle](https://github.com/imganpat/cracking-leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0189-rotate-array](https://github.com/imganpat/cracking-leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/imganpat/cracking-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/imganpat/cracking-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/imganpat/cracking-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0118-pascals-triangle](https://github.com/imganpat/cracking-leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0264-ugly-number-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0397-integer-replacement](https://github.com/imganpat/cracking-leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0486-predict-the-winner](https://github.com/imganpat/cracking-leetcode/tree/main/0486-predict-the-winner/) | Medium |
