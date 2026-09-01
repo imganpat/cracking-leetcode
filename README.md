@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1254-number-of-closed-islands](https://github.com/imganpat/cracking-leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/imganpat/cracking-leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/imganpat/cracking-leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1406-stone-game-iii](https://github.com/imganpat/cracking-leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/imganpat/cracking-leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/imganpat/cracking-leetcode/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/imganpat/cracking-leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/imganpat/cracking-leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/imganpat/cracking-leetcode/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/imganpat/cracking-leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1396-design-underground-system](https://github.com/imganpat/cracking-leetcode/tree/main/1396-design-underground-system/) | Medium |
