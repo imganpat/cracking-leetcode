@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1406-stone-game-iii](https://github.com/imganpat/cracking-leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1492-the-kth-factor-of-n](https://github.com/imganpat/cracking-leetcode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/imganpat/cracking-leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1641-count-sorted-vowel-strings](https://github.com/imganpat/cracking-leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/imganpat/cracking-leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imganpat/cracking-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0894-all-possible-full-binary-trees](https://github.com/imganpat/cracking-leetcode/tree/main/0894-all-possible-full-binary-trees/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/imganpat/cracking-leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [1406-stone-game-iii](https://github.com/imganpat/cracking-leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1641-count-sorted-vowel-strings](https://github.com/imganpat/cracking-leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/imganpat/cracking-leetcode/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -1007,4 +1009,8 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/imganpat/cracking-leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/imganpat/cracking-leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
 <!---LeetCode Topics End-->
