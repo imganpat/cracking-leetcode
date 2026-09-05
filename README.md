@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3895-count-digit-appearances](https://github.com/imganpat/cracking-leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/imganpat/cracking-leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/imganpat/cracking-leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/imganpat/cracking-leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2100-find-good-days-to-rob-the-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/imganpat/cracking-leetcode/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/imganpat/cracking-leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/imganpat/cracking-leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
