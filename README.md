@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0851-loud-and-rich](https://github.com/imganpat/cracking-leetcode/tree/main/0851-loud-and-rich/) | Medium |
 | [0877-stone-game](https://github.com/imganpat/cracking-leetcode/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/imganpat/cracking-leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/imganpat/cracking-leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0994-rotting-oranges](https://github.com/imganpat/cracking-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imganpat/cracking-leetcode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/imganpat/cracking-leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/imganpat/cracking-leetcode/tree/main/0865-smallest-subtree-with-all-the-deepest-nodes/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/imganpat/cracking-leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imganpat/cracking-leetcode/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/1171-remove-zero-sum-consecutive-nodes-from-linked-list/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/imganpat/cracking-leetcode/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/imganpat/cracking-leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/imganpat/cracking-leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
