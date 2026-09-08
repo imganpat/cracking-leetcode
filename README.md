@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/imganpat/cracking-leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/imganpat/cracking-leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/imganpat/cracking-leetcode/tree/main/3857-minimum-cost-to-split-into-ones/) | Medium |
+| [3870-count-commas-in-range](https://github.com/imganpat/cracking-leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3895-count-digit-appearances](https://github.com/imganpat/cracking-leetcode/tree/main/3895-count-digit-appearances/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
