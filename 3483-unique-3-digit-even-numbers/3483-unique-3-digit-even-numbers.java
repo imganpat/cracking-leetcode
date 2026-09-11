@@ -1,7 +1,6 @@
 class Solution {
     public int totalNumbers(int[] digits) {
         Set<Integer> set = new HashSet<>();
-        int count = 0;
 
         for (int i = 0; i < digits.length; i++) {
             if (digits[i] == 0) {
@@ -22,12 +21,11 @@ class Solution {
 
                     if (!set.contains(num) && num % 2 == 0) {
                         set.add(num);
-                        count++;
                     }
                 }
             }
         }
 
-        return count;
+        return set.size();
     }
 }
