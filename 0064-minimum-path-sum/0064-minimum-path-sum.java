@@ -3,7 +3,11 @@ class Solution {
         int n = grid.length;
         int m =  grid[0].length;
 
-        Map<String, Integer>  dp = new HashMap<>();
+        int[][] dp= new int[n][m];
+
+        for (int i =0; i < n;  i++) {
+            Arrays.fill(dp[i],  -1);
+        }
 
         return helper(grid, 0, 0, n, m, dp);
     }
@@ -13,7 +17,7 @@ class Solution {
             int j, 
             int n, 
             int m,
-            Map<String,Integer> dp
+            int[][] dp
     ) {
 
         if (i == n  || j  ==  m) {
@@ -24,19 +28,14 @@ class Solution {
             return grid[i][j];
         }
 
-        String key = i + "," + j;
-        if (dp.containsKey(key)) {
-            return dp.get(key);
+        if (dp[i][j] != -1) {
+            return dp[i][j];
         }
 
 
         int down = helper(grid, i + 1, j,n,m, dp);
         int right = helper(grid, i, j + 1 ,n,m, dp);
         
-        int minSum = grid[i][j] + Math.min(down, right);
-        
-        dp.put(key, minSum);
-
-        return minSum;
+        return dp[i][j] = grid[i][j] + Math.min(down, right);
     }
 }
