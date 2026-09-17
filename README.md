@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/imganpat/cracking-leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/imganpat/cracking-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/imganpat/cracking-leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/imganpat/cracking-leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0477-total-hamming-distance](https://github.com/imganpat/cracking-leetcode/tree/main/0477-total-hamming-distance/) | Medium |
 | [0486-predict-the-winner](https://github.com/imganpat/cracking-leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0502-ipo](https://github.com/imganpat/cracking-leetcode/tree/main/0502-ipo/) | Hard |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/imganpat/cracking-leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0443-string-compression](https://github.com/imganpat/cracking-leetcode/tree/main/0443-string-compression/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/imganpat/cracking-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/imganpat/cracking-leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0767-reorganize-string](https://github.com/imganpat/cracking-leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/imganpat/cracking-leetcode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/imganpat/cracking-leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/imganpat/cracking-leetcode/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/imganpat/cracking-leetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0397-integer-replacement](https://github.com/imganpat/cracking-leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/imganpat/cracking-leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0486-predict-the-winner](https://github.com/imganpat/cracking-leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/imganpat/cracking-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/imganpat/cracking-leetcode/tree/main/0526-beautiful-arrangement/) | Medium |
@@ -1028,4 +1031,12 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/imganpat/cracking-leetcode/tree/main/1641-count-sorted-vowel-strings/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/imganpat/cracking-leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/imganpat/cracking-leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 <!---LeetCode Topics End-->
