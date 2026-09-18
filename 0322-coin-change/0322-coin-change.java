@@ -21,7 +21,6 @@ class Solution {
             int remainingAmount,
             int[][] dp
     ) {
-        int count = 0;
         if (remainingAmount == 0) {
             return 0;
         }
