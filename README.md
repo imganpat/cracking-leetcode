@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1487-making-file-names-unique](https://github.com/imganpat/cracking-leetcode/tree/main/1487-making-file-names-unique/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/imganpat/cracking-leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/imganpat/cracking-leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/imganpat/cracking-leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/imganpat/cracking-leetcode/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/imganpat/cracking-leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0074-search-a-2d-matrix](https://github.com/imganpat/cracking-leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/imganpat/cracking-leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/imganpat/cracking-leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/imganpat/cracking-leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/imganpat/cracking-leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Linked List
