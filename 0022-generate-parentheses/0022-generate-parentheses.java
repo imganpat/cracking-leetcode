@@ -1,26 +1,6 @@
-// Approach: Backtracking (Generate Valid Parentheses)
-// 1. Build the string step by step using recursion.
-// 2. Keep track of:
-//    - open → number of '(' used
-//    - close → number of ')' used
-// 3. At any point:
-//    - You can add '(' if open < n.
-//    - You can add ')' only if close < open (to maintain validity).
-// 4. When open == n and close == n, a valid combination is formed.
-// 5. Use StringBuilder for efficient add/remove (backtracking).
-// 6. Backtrack by removing the last character after each recursive call.
-//
-// Time complexity: O(Cn)
-//   - Cn = nth Catalan number ≈ (4^n / √n)
-//   - Number of valid combinations
-// Space complexity: O(n)
-//   - Recursion depth + StringBuilder
-
 class Solution {
-
-    // Backtracking function
     public void backtrack(int open, int close, int n,
-                          StringBuilder str, List<String> res) {
+            StringBuilder str, List<String> res) {
 
         // Base case: valid sequence formed
         if (open == n && close == n) {
