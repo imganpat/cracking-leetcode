@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1338-reduce-array-size-to-the-half](https://github.com/imganpat/cracking-leetcode/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/imganpat/cracking-leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1406-stone-game-iii](https://github.com/imganpat/cracking-leetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1409-queries-on-a-permutation-with-key](https://github.com/imganpat/cracking-leetcode/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imganpat/cracking-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1487-making-file-names-unique](https://github.com/imganpat/cracking-leetcode/tree/main/1487-making-file-names-unique/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/imganpat/cracking-leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3811-reverse-degree-of-a-string](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/imganpat/30-Days-of-JavaScript-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/imganpat/cracking-leetcode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
+| [1409-queries-on-a-permutation-with-key](https://github.com/imganpat/cracking-leetcode/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [2079-watering-plants](https://github.com/imganpat/cracking-leetcode/tree/main/2079-watering-plants/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2974-minimum-number-game](https://github.com/imganpat/cracking-leetcode/tree/main/2974-minimum-number-game/) | Easy |
@@ -1046,4 +1048,12 @@ A collection of LeetCode questions to ace the coding interview!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/imganpat/cracking-leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/imganpat/cracking-leetcode/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/imganpat/cracking-leetcode/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 <!---LeetCode Topics End-->
