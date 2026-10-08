@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/imganpat/cracking-leetcode/tree/main/2115-find-all-possible-recipes-from-given-supplies/) | Medium |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/imganpat/cracking-leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/imganpat/cracking-leetcode/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2392-build-a-matrix-with-conditions](https://github.com/imganpat/cracking-leetcode/tree/main/2392-build-a-matrix-with-conditions/) | Hard |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/imganpat/cracking-leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/imganpat/cracking-leetcode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2182-construct-string-with-repeat-limit](https://github.com/imganpat/cracking-leetcode/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/imganpat/cracking-leetcode/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/imganpat/cracking-leetcode/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/imganpat/cracking-leetcode/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/imganpat/cracking-leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imganpat/cracking-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imganpat/cracking-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/imganpat/cracking-leetcode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imganpat/cracking-leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2100-find-good-days-to-rob-the-bank/) | Medium |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/imganpat/cracking-leetcode/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [3694-distinct-points-reachable-after-substring-removal](https://github.com/imganpat/cracking-leetcode/tree/main/3694-distinct-points-reachable-after-substring-removal/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/imganpat/cracking-leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/imganpat/cracking-leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
