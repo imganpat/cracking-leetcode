@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/imganpat/cracking-leetcode/tree/main/1828-queries-on-number-of-points-inside-a-circle/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imganpat/cracking-leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/imganpat/cracking-leetcode/tree/main/2125-number-of-laser-beams-in-a-bank/) | Medium |
+| [2469-convert-the-temperature](https://github.com/imganpat/cracking-leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2575-find-the-divisibility-array-of-a-string](https://github.com/imganpat/cracking-leetcode/tree/main/2575-find-the-divisibility-array-of-a-string/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/imganpat/cracking-leetcode/tree/main/2816-double-a-number-represented-as-a-linked-list/) | Medium |
