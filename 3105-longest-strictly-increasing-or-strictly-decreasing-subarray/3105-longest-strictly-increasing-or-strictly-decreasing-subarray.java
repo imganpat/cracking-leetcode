@@ -9,12 +9,10 @@ class Solution {
             if (nums[i] > nums[i - 1]) {
                 increasing++;
                 decreasing = 1;
-            } 
-            else if (nums[i] < nums[i - 1]) {
+            } else if (nums[i] < nums[i - 1]) {
                 decreasing++;
                 increasing = 1;
-            } 
-            else {
+            } else {
                 increasing = 1;
                 decreasing = 1;
             }
